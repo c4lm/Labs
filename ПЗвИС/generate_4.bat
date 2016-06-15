@@ -1,0 +1,1 @@
+bin\mallet infer-topics --input test.mallet --inferencer infer.inferencer --output-doc-topics testtopics.txt

@@ -1,0 +1,2 @@
+bin\mallet train-topics  --input tutorial.mallet  --num-topics 25 --optimize-interval 30 --output-state topic-state.gz  --output-topic-keys tutorial_keys.txt --output-doc-topics tutorial_composition.txt --output-model m.model --inferencer-filename infer.inferencer 
+start generate_3.bat
